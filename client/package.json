@@ -1,0 +1,12 @@
+{
+  "name": "one-off-service-client",
+  "version": "1.0.0",
+  "description": "Example usage of the one off service smart contract",
+  "main": "one_off_service_client.js",
+  "author": "Chain Science",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "^6.9.0"
+  }
+}
